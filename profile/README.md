@@ -13,12 +13,8 @@
 # Software:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Wobbly-Tooth-Save-Manager&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Wobbly-Tooth-Save-Manager)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Save-Fixer&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Fixer)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Save-Editor&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Editor)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Tools&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Tools)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Advanced-Hack-Tool&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Advanced-Hack-Tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=BattleMinerZ-Health-Editor&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/Cracko298/BattleMinerZ-Health-Editor)
