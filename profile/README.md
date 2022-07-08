@@ -5,10 +5,10 @@
 - Mainly Games Made by: [Wobbly Tooth Ltd](https://twitter.com/WobblyToothLtd)
 
 # Members:
-- [Cracko298](https://github.com/Cracko298) - Software Developer & Cheat Creator.
+- [Cracko298](https://github.com/Cracko298) - Software Developer, Cheat Creator, & Founder of [ISZ-Hacker-Group](https://github.com/ISZ-Hacker-Group).
+- [KingCraXy](https://github.com/GageCover) - Cheat Creator, Bot Creator, & Founder of [ISZ-Hacker-Group](https://github.com/ISZ-Hacker-Group).
 - [Oneey2112](https://github.com/eyed-owl) - Software Developer & Cheat Creator.
-- [KingCraXy](https://github.com/GageCover) - Cheat Creator.
-- [JaxOnOff](https://github.com/JaxOffTheHook) - Cheat Creator.
+- [JaxOnOff](https://github.com/JaxOffTheHook) - Bot Creator, Cheat Creator.
 
 # Software:
 
