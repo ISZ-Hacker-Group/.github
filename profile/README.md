@@ -21,6 +21,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Tools&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Tools)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Ice-Station-Z-Advanced-Hack-Tool&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Advanced-Hack-Tool)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Advanced-Hack-Tool&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Advanced-Hack-Tool)
