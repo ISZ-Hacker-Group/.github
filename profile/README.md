@@ -7,8 +7,8 @@
 # Members:
 - [Cracko298](https://github.com/Cracko298) - Software Developer & Cheat Creator.
 - [Oneey2112](https://github.com/eyed-owl) - Software Developer & Cheat Creator.
-- [JaxOnOff](https://github.com/JaxOffTheHook) - Cheat Creator.
 - [KingCraXy](https://github.com/GageCover) - Cheat Creator.
+- [JaxOnOff](https://github.com/JaxOffTheHook) - Cheat Creator.
 
 # Software:
 
