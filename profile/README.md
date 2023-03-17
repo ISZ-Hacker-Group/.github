@@ -6,7 +6,7 @@
 
 # Members:
 - [KingCraXy](https://github.com/GageCover) - Cheat Creator, Bot Creator, & Founder of [ISZ-Hacker-Group](https://github.com/ISZ-Hacker-Group).
-- [Cracko298](https://github.com/Cracko298) - Software Developer, Cheat Creator, & Co-Founder of [ISZ-Hacker-Group](https://github.com/ISZ-Hacker-Group).
+- [Cracko298](https://github.com/Cracko298) - Main Software Developer, Cheat Creator, & Co-Founder of [ISZ-Hacker-Group](https://github.com/ISZ-Hacker-Group).
 - [Oneey2112](https://github.com/eyed-owl) - Software Developer & Cheat Creator.
 - [JaxOnOff](https://github.com/JaxOffTheHook) - Bot Creator, Cheat Creator.
 
